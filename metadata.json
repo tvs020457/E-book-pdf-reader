@@ -1,0 +1,6 @@
+{
+  "name": "PDF Reader",
+  "description": "Upload and read PDF ebooks with smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
